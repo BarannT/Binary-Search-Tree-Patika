@@ -1,0 +1,60 @@
+body {
+    background-color: #F9F2ED;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #F87474;
+}
+
+.baslik {
+    color: #3AB0FF;
+}
+
+.center {
+    text-align: center;
+}
+
+
+.topbar ul{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: monospace;
+}
+.topbar li{
+    display:inline;
+    margin:7%;
+    position:relative;
+}
+.topbar a{
+    color: #FFB562;
+}
+.topbar a:hover{
+    color: #A0D995;
+}
+
+
+.pic {
+    margin-left: 180px;
+    margin-right: auto;
+    width: 70%;
+    list-style: none;
+}
+.pic p{
+    text-align: center;
+    font-weight: bolder;
+}
+.pic a{
+    display: block;
+    color:#F87474;
+    margin-left: auto;
+    text-align: center;
+}
+
+.model {
+    list-style:disc;
+    list-style-position: inside;
+    margin-left: 660px;
+
+}
