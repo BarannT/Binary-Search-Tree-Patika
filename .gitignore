@@ -2,3 +2,5 @@
 *.jpg
 *.jpeg
 *.png
+
+!/CSS/Ödev 3/images/*
